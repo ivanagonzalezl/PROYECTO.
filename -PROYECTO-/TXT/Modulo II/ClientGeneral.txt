@@ -1,0 +1,6 @@
+Cristina,33003300,21,Mexico City Grand Prix,False,1,False,20,
+Mariaura,1212903456,19,Mexico City Grand Prix,False,2,False,20,
+Cristina,33003300,21,Qatar Grand Prix,False,4,False,18,
+Juan,12983123,34,Qatar Grand Prix,False,5,False,18,
+Luis,2938422321,23,Qatar Grand Prix,False,6,False,18,
+Mauricio,329840230,25,Qatar Grand Prix,False,7,False,18,
